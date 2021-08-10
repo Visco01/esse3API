@@ -17,7 +17,6 @@ var Esse3Api = class Esse3API {
     }else{
       this.student = new Student(matId, this.base_url, this.base64data);
     }
-    
   }
 
   tryLogin() {

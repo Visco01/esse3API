@@ -1,6 +1,5 @@
 const Esse3API = require('./api/Esse3API.js')
 
-/* Parameters: endpoint (int), username (string), password (string), matId (string) --> It can be empty*/
 /**
  * Creates a new Esse3API object
  * @param position (int) The endpoint's position in JSON data. See README.md for details

@@ -1,4 +1,4 @@
-# esse3API
+# Esse3 API
 In order to test the API, go to index.js, set the endpoint's number and both username and password.
 List of endpoints:
 

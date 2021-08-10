@@ -4,34 +4,34 @@ List of endpoints:
 
 | Number | University |
 | ------ | ---------- |
-| :x: | Politecnico di Bari |
-| :x: | Università degli Studi della Basilicata |
-| :x: | Università degli Studi di Bari Aldo Moro |
-| :x: | Università degli Studi di Bergamo |
-| :x: | Università degli Studi di Brescia |
-| :x: | Università della Calabria |
-| :x: | Università degli Studi della Campania Luigi Vanvitelli |
-| :x: | Università Campus Bio-Medico di Roma |
-| :x: | Università di Camerino |
-| :x: | Università degli Studi di Cagliari |
-| :x: | Università degli Studi G. D'Annunzio Chieti Pescara |
-| :x: | Università degli Studi di Firenze |
-| :x: | Università degli Studi Guglielmo Marconi |
-| :x: | Università degli Studi di Messina |
-| :x: | Università degli Studi di Milano-Bicocca |
-| :x: | Università degli Studi di Modena e Reggio Emilia |
-| :x: | Università degli Studi dell'Insubria |
-| :x: | Università degli Studi di Perugia |
-| :x: | Università di Pisa |
-| :x: | Università di Parma |
-| :x: | Università degli Studi di Pavia |
-| :x: | Università degli Studi della Repubblica di San Marino |
-| :x: | Università degli Studi del Sannio |
-| :x: | Università degli Studi di Trento |
-| :x: | Università di Torino |
-| :x: | Università degli Studi di Trieste |
-| :x: | Università degli Studi di Udine |
-| :x: | Università degli Studi di Urbino Carlo Bo |
-| :x: | Università degli Studi dell'Aquila |
-| :x: | Università Ca' Foscari Venezia |
-| :x: | Università Politecnica delle Marche |
+| 1 | Politecnico di Bari |
+| 2 | Università degli Studi della Basilicata |
+| 3 | Università degli Studi di Bari Aldo Moro |
+| 4 | Università degli Studi di Bergamo |
+| 5 | Università degli Studi di Brescia |
+| 6 | Università della Calabria |
+| 7 | Università degli Studi della Campania Luigi Vanvitelli |
+| 8 | Università Campus Bio-Medico di Roma |
+| 9 | Università di Camerino |
+| 10 | Università degli Studi di Cagliari |
+| 11 | Università degli Studi G. D'Annunzio Chieti Pescara |
+| 12 | Università degli Studi di Firenze |
+| 13 | Università degli Studi Guglielmo Marconi |
+| 14 | Università degli Studi di Messina |
+| 15 | Università degli Studi di Milano-Bicocca |
+| 16 | Università degli Studi di Modena e Reggio Emilia |
+| 17 | Università degli Studi dell'Insubria |
+| 18 | Università degli Studi di Perugia |
+| 19 | Università di Pisa |
+| 20 | Università di Parma |
+| 21 | Università degli Studi di Pavia |
+| 22 | Università degli Studi della Repubblica di San Marino |
+| 23 | Università degli Studi del Sannio |
+| 24 | Università degli Studi di Trento |
+| 25 | Università di Torino |
+| 26 | Università degli Studi di Trieste |
+| 27 | Università degli Studi di Udine |
+| 28 | Università degli Studi di Urbino Carlo Bo |
+| 29 | Università degli Studi dell'Aquila |
+| 30 | Università Ca' Foscari Venezia |
+| 31 | Università Politecnica delle Marche |

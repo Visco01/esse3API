@@ -5,7 +5,6 @@ var Libretto = class Libretto{
     constructor(data){
         this.exams = [];
         this.init(data);
-        this.printExamsIfPassed();
     }
 
     init(data){

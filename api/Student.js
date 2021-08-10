@@ -43,7 +43,7 @@ var Student = class Student{
         var requestOptions = {
             method: "GET",
             headers: {
-                Authorization: "Basic " + this.base64data,
+                Authorization: "Basic " + this.base64data, 
             },
         };
     

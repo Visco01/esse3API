@@ -1,5 +1,6 @@
 const endpoints = require("./endpoints.js");
 const Student = require("./Student.js");
+const UndefinedException = require("./UndefinedException.js");
 const fetch = require("sync-fetch");
 
 var Esse3Api = class Esse3API {
@@ -17,6 +18,8 @@ var Esse3Api = class Esse3API {
     }else{
       this.student = new Student(matId, this.base_url, this.base64data);
     }
+
+    if(typeof this.student == "undefined") throw new UndefinedException();
   }
 
   tryLogin() {

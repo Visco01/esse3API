@@ -1,6 +1,5 @@
 const endpoints = require("./endpoints.js");
 const Student = require("./Student.js");
-const request = require("request");
 const fetch = require("sync-fetch");
 
 var Esse3Api = class Esse3API {

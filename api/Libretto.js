@@ -5,7 +5,7 @@ var Libretto = class Libretto{
     constructor(data){
         this.exams = [];
         this.init(data);
-        
+        this.printExamsIfPassed();
     }
 
     init(data){
@@ -15,26 +15,17 @@ var Libretto = class Libretto{
     }
 
     printExams(){
-        
+        for(var elem in this.exams){
+            this.exams[elem].printExam();
+        }
+    }
+
+    printExamsIfPassed(){
+        for(var elem in this.exams){
+            this.exams[elem].printExamIfPassed();
+        }
     }
 
 }
 
 module.exports = Libretto;
-
-/**
- * Corsi normali:
- * adDes = Algebra lineare
- * esito.dataEsa = 25/01/2020
- * esito.voto = 19
- * statoDes = superata
- * 
- * Corsi idoneità:
- * if(statoDes == Superata && esito.voto == null) esito.voto = Idoneo
- * 
- * this.title
- * this.date
- * this.stato
- * this.voto
- * this.esito
- */

@@ -6,8 +6,9 @@ const Esse3API = require('./api/Esse3API.js');
  *                 30: it referres to Ca'Foscari University in Venice.
  * @param username (string) Username
  * @param password (string) Password 
- * @param matId    (string) A parameter used to login. The first time it can be empty, from the second time 
- *                 it should be saved in DB in order to gain some time with http requests.
+ * @param matId    (string) A parameter used to access to a student's career, obtained with login's http request. 
+ *                 The first time it can be empty, from the second time it should be saved in DB 
+ *                 in order to gain some time with http requests.
 */  
 
 /**EXAMPLE */
